@@ -1,6 +1,6 @@
 Laboratory Exercise 2: Working with Analog Signals
 -
-Project Overview Building upon the logic established in the previous exercise, this activity transitions from binary digital states to Pulse Width Modulation (PWM). The focus shifts to manipulating LED brightness levels through analog output commands, illustrating how digital microcontrollers can simulate analog voltage behavior.
+Project Overview: Building upon the logic established in the previous exercise, this activity transitions from binary digital states to Pulse Width Modulation (PWM). The focus shifts to manipulating LED brightness levels through analog output commands, illustrating how digital microcontrollers can simulate analog voltage behavior.
 -
 Learning Outcomes
 -
