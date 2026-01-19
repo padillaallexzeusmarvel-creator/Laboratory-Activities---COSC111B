@@ -1,4 +1,4 @@
-Laboratory Exercise 6: Full-Duplex Serial Communication
+Laboratory Exercise 6: Bidirectional Control Using Arduino and Python
 -
 Project Overview: This laboratory activity implements a complete bidirectional (full-duplex) data stream between the microcontroller and a Python script. Unlike previous exercises where the computer acted solely as a transmitter, this system establishes a responsive feedback loop. The Arduino initiates communication by transmitting physical inputs (button presses) to the Python environment, which processes the data and replies with specific command codes to actuate hardware (LEDs). This architecture simulates the "handshake" protocols found in commercial IoT systems.
 -
