@@ -1,5 +1,4 @@
-Laboratory Exercise 1: Fundamentals of Digital Signals
-Project Overview This experiment involves constructing a sequential LED display, commonly known as a "Running Light," utilizing an Arduino microcontroller. The primary goal is to demonstrate digital output manipulation by coordinating hardware components through precise software timing and logic.
+Laboratory Exercise 1: Working with Digital Signals
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Learning Outcomes
 -
