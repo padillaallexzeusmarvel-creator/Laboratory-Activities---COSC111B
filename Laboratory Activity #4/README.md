@@ -1,6 +1,6 @@
 Laboratory Exercise 4: Arduino Serial Connection
 -
-Project Overview This session focuses on establishing a bidirectional data link between the microcontroller and a host computer via the Serial interface. Expanding on previous sensor applications, this project introduces a "latching" alarm mechanism. Unlike previous iterations where the alarm ceased automatically when conditions improved, this system requires a specific textual command from the user to reset the alert, simulating a manual security acknowledgment.
+Project Overview: This session focuses on establishing a bidirectional data link between the microcontroller and a host computer via the Serial interface. Expanding on previous sensor applications, this project introduces a "latching" alarm mechanism. Unlike previous iterations where the alarm ceased automatically when conditions improved, this system requires a specific textual command from the user to reset the alert, simulating a manual security acknowledgment.
 -
 Learning Outcomes
 -
