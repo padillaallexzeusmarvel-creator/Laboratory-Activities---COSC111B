@@ -1,4 +1,5 @@
-Laboratory Exercise 3: Sensor Integration (Fire Detection Prototype)
+Laboratory Exercise 3: Working with Sensors (Fire Sensor Simulation)
+-
 Project Overview This project focuses on the development of an automated environmental monitoring system designed to simulate fire detection. By integrating a thermistor and a photoresistor, the device tracks thermal and optical changes simultaneously. The primary goal is to demonstrate the processing of multi-sensor data to trigger immediate audio-visual warnings when hazardous thresholds are crossed.
 -
 Learning Outcomes
